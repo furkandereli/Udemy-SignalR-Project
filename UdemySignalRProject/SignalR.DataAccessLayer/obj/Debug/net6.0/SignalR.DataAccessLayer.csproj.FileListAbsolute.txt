@@ -1,0 +1,17 @@
+C:\Users\Nyekruh\source\repos\UdemySignalRProject\SignalR.DataAccessLayer\bin\Debug\net6.0\SignalR.DataAccessLayer.deps.json
+C:\Users\Nyekruh\source\repos\UdemySignalRProject\SignalR.DataAccessLayer\bin\Debug\net6.0\SignalR.DataAccessLayer.runtimeconfig.json
+C:\Users\Nyekruh\source\repos\UdemySignalRProject\SignalR.DataAccessLayer\bin\Debug\net6.0\SignalR.DataAccessLayer.dll
+C:\Users\Nyekruh\source\repos\UdemySignalRProject\SignalR.DataAccessLayer\bin\Debug\net6.0\SignalR.DataAccessLayer.pdb
+C:\Users\Nyekruh\source\repos\UdemySignalRProject\SignalR.DataAccessLayer\bin\Debug\net6.0\SignalR.EntityLayer.dll
+C:\Users\Nyekruh\source\repos\UdemySignalRProject\SignalR.DataAccessLayer\bin\Debug\net6.0\SignalR.EntityLayer.pdb
+C:\Users\Nyekruh\source\repos\UdemySignalRProject\SignalR.DataAccessLayer\obj\Debug\net6.0\SignalR.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Nyekruh\source\repos\UdemySignalRProject\SignalR.DataAccessLayer\obj\Debug\net6.0\SignalR.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nyekruh\source\repos\UdemySignalRProject\SignalR.DataAccessLayer\obj\Debug\net6.0\SignalR.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Nyekruh\source\repos\UdemySignalRProject\SignalR.DataAccessLayer\obj\Debug\net6.0\SignalR.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Nyekruh\source\repos\UdemySignalRProject\SignalR.DataAccessLayer\obj\Debug\net6.0\SignalR.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nyekruh\source\repos\UdemySignalRProject\SignalR.DataAccessLayer\obj\Debug\net6.0\SignalR.DataAccessLayer.csproj.CopyComplete
+C:\Users\Nyekruh\source\repos\UdemySignalRProject\SignalR.DataAccessLayer\obj\Debug\net6.0\SignalR.DataAccessLayer.dll
+C:\Users\Nyekruh\source\repos\UdemySignalRProject\SignalR.DataAccessLayer\obj\Debug\net6.0\refint\SignalR.DataAccessLayer.dll
+C:\Users\Nyekruh\source\repos\UdemySignalRProject\SignalR.DataAccessLayer\obj\Debug\net6.0\SignalR.DataAccessLayer.pdb
+C:\Users\Nyekruh\source\repos\UdemySignalRProject\SignalR.DataAccessLayer\obj\Debug\net6.0\SignalR.DataAccessLayer.genruntimeconfig.cache
+C:\Users\Nyekruh\source\repos\UdemySignalRProject\SignalR.DataAccessLayer\obj\Debug\net6.0\ref\SignalR.DataAccessLayer.dll

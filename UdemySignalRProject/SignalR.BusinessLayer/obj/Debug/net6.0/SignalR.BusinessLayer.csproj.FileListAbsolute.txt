@@ -1,0 +1,17 @@
+C:\Users\Nyekruh\source\repos\UdemySignalRProject\SignalR.BusinessLayer\bin\Debug\net6.0\SignalR.BusinessLayer.deps.json
+C:\Users\Nyekruh\source\repos\UdemySignalRProject\SignalR.BusinessLayer\bin\Debug\net6.0\SignalR.BusinessLayer.dll
+C:\Users\Nyekruh\source\repos\UdemySignalRProject\SignalR.BusinessLayer\bin\Debug\net6.0\SignalR.BusinessLayer.pdb
+C:\Users\Nyekruh\source\repos\UdemySignalRProject\SignalR.BusinessLayer\bin\Debug\net6.0\SignalR.DataAccessLayer.dll
+C:\Users\Nyekruh\source\repos\UdemySignalRProject\SignalR.BusinessLayer\bin\Debug\net6.0\SignalR.EntityLayer.dll
+C:\Users\Nyekruh\source\repos\UdemySignalRProject\SignalR.BusinessLayer\bin\Debug\net6.0\SignalR.DataAccessLayer.pdb
+C:\Users\Nyekruh\source\repos\UdemySignalRProject\SignalR.BusinessLayer\bin\Debug\net6.0\SignalR.EntityLayer.pdb
+C:\Users\Nyekruh\source\repos\UdemySignalRProject\SignalR.BusinessLayer\obj\Debug\net6.0\SignalR.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Nyekruh\source\repos\UdemySignalRProject\SignalR.BusinessLayer\obj\Debug\net6.0\SignalR.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nyekruh\source\repos\UdemySignalRProject\SignalR.BusinessLayer\obj\Debug\net6.0\SignalR.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Nyekruh\source\repos\UdemySignalRProject\SignalR.BusinessLayer\obj\Debug\net6.0\SignalR.BusinessLayer.AssemblyInfo.cs
+C:\Users\Nyekruh\source\repos\UdemySignalRProject\SignalR.BusinessLayer\obj\Debug\net6.0\SignalR.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nyekruh\source\repos\UdemySignalRProject\SignalR.BusinessLayer\obj\Debug\net6.0\SignalR.BusinessLayer.csproj.CopyComplete
+C:\Users\Nyekruh\source\repos\UdemySignalRProject\SignalR.BusinessLayer\obj\Debug\net6.0\SignalR.BusinessLayer.dll
+C:\Users\Nyekruh\source\repos\UdemySignalRProject\SignalR.BusinessLayer\obj\Debug\net6.0\refint\SignalR.BusinessLayer.dll
+C:\Users\Nyekruh\source\repos\UdemySignalRProject\SignalR.BusinessLayer\obj\Debug\net6.0\SignalR.BusinessLayer.pdb
+C:\Users\Nyekruh\source\repos\UdemySignalRProject\SignalR.BusinessLayer\obj\Debug\net6.0\ref\SignalR.BusinessLayer.dll
