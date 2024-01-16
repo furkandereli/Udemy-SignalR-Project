@@ -21,7 +21,9 @@ Eğitim Serisinde Yer Verilen Başlıca Teknolojiler:
 - Mail Gönderme İşlemleri
 
 Proje içeriğiyle ilgili görselleri aşağıda görebilirsiniz.
+<br>
 Proje içeriğini güncellemeye devam edeceğim.
+<br>
 Saygılar.
 
 ![İlk](https://github.com/furkandereli/Udemy-SignalR-Project/assets/33660088/f7b6c66c-2616-426e-b579-e719d92b3ecf)
