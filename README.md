@@ -1,7 +1,7 @@
 <strong>Murat Yücedağ</strong> hocamın Udemyde yayınladığı Asp.Net Core ve SignalR ile QR Kodlu Sipariş yönetimi kursunun tamamlanmış halidir.
 
-AspNet Core 6.0 ile geliştirdiğimiz bu projenin admin ve vitrin olarak iki ayrı paneli bulunmaktadır.
-Proje restorana gelen müşterilerin QR kod ile kolayca sipariş verip hizmet almalarını amaç edinir.
+AspNet Core 6.0 ile geliştirdiğimiz bu projenin admin ve vitrin olarak iki ayrı paneli bulunmaktadır.<br>
+Proje restorana gelen müşterilerin QR kod ile kolayca sipariş verip hizmet almalarını amaç edinir.<br>
 Projede mimariye uygun solid prensiplerine sadık kalarak clean code yazılmaya özen gösterilmiştir.
 
 Eğitim Serisinde Yer Verilen Başlıca Teknolojiler:
